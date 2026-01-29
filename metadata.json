@@ -1,0 +1,8 @@
+{
+  "name": "NebulaSub - AI Subdomain Manager",
+  "description": "A high-performance dashboard for managing free subdomains on your Cloudflare domains, featuring AI-powered name brainstorming, brand identity generation, and 24/7 technical support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
